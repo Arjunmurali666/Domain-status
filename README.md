@@ -1,5 +1,5 @@
 # Domain-status
-## This code is written to check the status of domain. We can use this code as a cron to check the domain is active or not. 
+## Python - This code is written to check the status of domain. We can use this code as a cron to check the domain is active or not. 
 
 ```python
 import requests
